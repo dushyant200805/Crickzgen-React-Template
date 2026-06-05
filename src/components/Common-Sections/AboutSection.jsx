@@ -22,10 +22,10 @@ function AboutSection({ noBg }) {
           >
             <div className="image-container position-relative d-flex align-items-center justify-content-center p-3">
               <div className="about-image-container-1">
-                <img src="/public/about-image-1.webp" alt="" />
+                <img src="/about-image-1.webp" alt="" />
               </div>
               <div className="about-image-container-2">
-                <img src="/public/about-image-2.webp" alt="" />
+                <img src="/about-image-2.webp" alt="" />
               </div>
             </div>
           </div>
@@ -70,7 +70,7 @@ function AboutSection({ noBg }) {
                 <div className="about-player-card py-4 d-flex align-items-center gap-3">
                   <div className="image-container ">
                     <img
-                      src="/public/about-image-3.webp"
+                      src="/about-image-3.webp"
                       alt=""
                       className="w-100 object-fit-cover "
                       height="80"

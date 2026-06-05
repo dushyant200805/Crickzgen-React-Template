@@ -115,7 +115,7 @@ function WhyChooseSection({ noBg }) {
                       <div className="col-sm-6">
                         <div className="image-container">
                           <img
-                            src="/public/why-choose-image-2.webp"
+                            src="/why-choose-image-2.webp"
                             className="w-100 object-fit-cover rounded-3"
                             height="300"
                             alt=""
@@ -154,7 +154,7 @@ function WhyChooseSection({ noBg }) {
                       <div className="col-sm-6">
                         <div className="image-container">
                           <img
-                            src="/public/why-choose-image-3.webp"
+                            src="/why-choose-image-3.webp"
                             className="w-100 object-fit-cover rounded-3"
                             height="300"
                             alt=""
@@ -193,7 +193,7 @@ function WhyChooseSection({ noBg }) {
                       <div className="col-sm-6">
                         <div className="image-container">
                           <img
-                            src="/public/why-choose-image-3.webp"
+                            src="/why-choose-image-3.webp"
                             className="w-100 object-fit-cover rounded-3"
                             height="300"
                             alt=""

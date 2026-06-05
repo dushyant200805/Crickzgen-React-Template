@@ -140,7 +140,7 @@ header.fix .nav-link.active {
 .slide-1 {
   background:
     linear-gradient(170deg, rgb(10 10 10), rgba(106, 129, 75, 0.3)),
-    url("/public/banner-slide-1.webp") no-repeat;
+    url("/banner-slide-1.webp") no-repeat;
   background-size: cover;
   background-position: top;
   min-height: 750px;
@@ -153,7 +153,7 @@ header.fix .nav-link.active {
 .slide-2 {
   background:
     linear-gradient(170deg, rgb(10 10 10), rgb(106, 129, 75, 0.2)),
-    url("/public/banner-slide-2.webp") no-repeat;
+    url("/banner-slide-2.webp") no-repeat;
   background-size: cover;
   background-position: top;
   min-height: 750px;
@@ -166,7 +166,7 @@ header.fix .nav-link.active {
 .slide-3 {
   background:
     linear-gradient(170deg, rgb(10 10 10), rgba(106, 129, 75, 0.2)),
-    url("/public/banner-slide-3.webp") no-repeat;
+    url("/banner-slide-3.webp") no-repeat;
   background-size: cover;
   background-position: top;
   min-height: 750px;
@@ -199,7 +199,6 @@ header.fix .nav-link.active {
 .hero-block-1 {
   max-width: 300px !important;
 }
-
 
 .player-wrapper {
   display: flex;
@@ -266,18 +265,18 @@ header.fix .nav-link.active {
   .py-6 {
     padding: 65px 0 !important;
   }
-  .pt-6{
-   padding-top: 65px !important;
-}
-.blogdetail-image-container img{
-  height: 350px !important;
-}
-.hero-block-1 {
-  max-width: 80% !important;
-}
-    .hero-heading {
-        font-size: 40px ;
-    }
+  .pt-6 {
+    padding-top: 65px !important;
+  }
+  .blogdetail-image-container img {
+    height: 350px !important;
+  }
+  .hero-block-1 {
+    max-width: 80% !important;
+  }
+  .hero-heading {
+    font-size: 40px;
+  }
 }
 
 /* ######### About Section  ########## */
@@ -366,7 +365,7 @@ header.fix .nav-link.active {
 .parmotion-section {
   background:
     linear-gradient(170deg, rgb(10 10 10), rgba(106, 129, 75, 0.3)),
-    url("/public/parmotion-image.webp") no-repeat;
+    url("/parmotion-image.webp") no-repeat;
   background-size: cover;
   background-position: center bottom;
   min-height: 450px;
@@ -540,20 +539,19 @@ div .error {
 .alertmsg {
   z-index: 9999;
 }
-#newsletter{
-    position: relative;
+#newsletter {
+  position: relative;
 }
-#newsletter div.error{
-    position: absolute;
-    bottom: -25px;
+#newsletter div.error {
+  position: absolute;
+  bottom: -25px;
 }
-
 
 /* ############  About Page ########### */
 .banner-section {
   background:
     linear-gradient(170deg, rgb(10 10 10), rgba(106, 129, 75, 0.3)),
-    url("/public/banner-image.webp") no-repeat;
+    url("/banner-image.webp") no-repeat;
   background-size: cover;
   background-position: top center;
   min-height: 450px;

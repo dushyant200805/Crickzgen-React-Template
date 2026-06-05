@@ -41,7 +41,6 @@ function StepSection({ noBg }) {
       },
       { threshold: 1.0 },
     ); // Trigger when 30% of section is visible
-    
   }, []);
 
   return (
@@ -56,7 +55,7 @@ function StepSection({ noBg }) {
             <div className="step-image-container position-relative">
               <div className="image-1">
                 <img
-                  src="/public/step-image-1.webp"
+                  src="/step-image-1.webp"
                   alt=""
                   className="w-100 object-fit-cover rounded-3"
                   height="500"
@@ -74,11 +73,7 @@ function StepSection({ noBg }) {
                 </span>
               </div>
               <div className="image-2">
-                <img
-                  src="/public/step-image-2.webp"
-                  alt=""
-                  className="rounded-3"
-                />
+                <img src="/step-image-2.webp" alt="" className="rounded-3" />
               </div>
             </div>
           </div>
