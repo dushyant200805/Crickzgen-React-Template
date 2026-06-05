@@ -1,0 +1,58 @@
+  const year = new Date().getFullYear();
+export const MatcheData = [
+    {
+        id: 1,
+        title:"match 1",
+        image1:"/public/team-logo-1.webp",
+        image2:"/public/team-logo-2.webp",
+        Heading:"City Cricket Arena",
+        date:`Saturday, August 3, ${year}`,
+        time:"4:00 PM"
+    },
+    {
+        id: 2,
+        title:"match 2",
+        image1:"/public/team-logo-1.webp",
+        image2:"/public/team-logo-3.webp",
+        Heading:"Sunfield Stadium",
+        date:`Sunday, August 11,  ${year}`,
+        time:"2:30 PM"
+    },
+    {
+        id: 3,
+        title:"match 3",
+        image1:"/public/team-logo-2.webp",
+        image2:"/public/team-logo-3.webp",
+        Heading:"Northside Oval",
+        date:`Sunday, August 17,  ${year}`,
+        time:"5:00 PM"
+    },
+    {
+        id: 4,
+        title:"match 4",
+        image1:"/public/team-logo-1.webp",
+        image2:"/public/team-logo-2.webp",
+        Heading:"Tambora Home Ground",
+        date:`Sunday, August 20,  ${year}`,
+        time:"3:00 PM"
+    },
+    {
+        id: 5,
+         title:"match 5",
+        image1:"/public/team-logo-1.webp",
+        image2:"/public/team-logo-3.webp",
+        Heading:"City Cricket",
+        date:`Sunday, August 21,  ${year}`,
+        time:"3:00 PM"
+    },
+    {
+        id: 6,
+         title:"match 6",
+        image1:"/public/team-logo-3.webp",
+        image2:"/public/team-logo-2.webp",
+        Heading:"Northside Oval",
+        date:`Sunday, August 21,  ${year}`,
+        time:"3:00 PM"
+    }
+   
+];  
