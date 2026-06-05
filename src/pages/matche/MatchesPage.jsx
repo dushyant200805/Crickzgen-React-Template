@@ -1,5 +1,5 @@
 import CommonBanner from "../../components/Common-Sections/CommonBanner";
-import MatchSection from "../../components/Common-Sections/matchesection";
+import MatchSection from "../../components/Common-Sections/MatcheSection";
 import TeamSection from "../../components/Common-Sections/TeamSection";
 function MatchesPage() {
     const BannerData = {

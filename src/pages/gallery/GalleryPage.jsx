@@ -1,5 +1,5 @@
 import CommonBanner from "../../components/Common-Sections/CommonBanner";
-import GallerySection from "./gallerySection";
+import GallerySection from "./GallerySection";
 function GalleryPage() {
     const BannerData = {
         "BannerTitle": "Gallery",

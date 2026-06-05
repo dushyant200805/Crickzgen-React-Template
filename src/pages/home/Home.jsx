@@ -2,7 +2,7 @@ import HeroBanner from "./HeroBanner";
 import AboutSection from "../../components/Common-Sections/AboutSection";
 import WhyChooseSection from "../../components/Common-Sections/WhyChooseSection";
 import StepSection from "../../components/Common-Sections/StepSection";
-import MatchSection from "../../components/Common-Sections/matchesection";
+import MatchSection from "../../components/Common-Sections/MatcheSection";
 import TeamSection from "../../components/Common-Sections/TeamSection";
 import TestimonialSection from "../../components/Common-Sections/TestimonialSection";
 import BlogSection from "../../components/Common-Sections/BlogSection";

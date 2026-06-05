@@ -1,5 +1,5 @@
 import CommonBanner from "../../components/Common-Sections/CommonBanner";
-import ContactFrom from "./contactFrom";
+import ContactFrom from "./ContactFrom";
 import EmailAlertMessage from "../../components/Ui/EmailAlertMessage";
 function ContactPage() {
   const BannerData = {
