@@ -37,7 +37,7 @@ function WhyChooseSection({ noBg }) {
                 </h2>
                 <div className="d-flex align-items-center justify-content-center flex-wrap flex-md-nowrap why-choose-wrapper">
                   <div className="why-choose-image">
-                    <img src="/public/why-choose-image-1.webp" alt="" />
+                    <img src="public/why-choose-image-1.webp" alt="" />
                   </div>
 
                   <p className="para-text ps-sm-4 mb-0">
